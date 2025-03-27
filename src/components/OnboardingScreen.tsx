@@ -19,17 +19,17 @@ const OnboardingScreen: React.FC = () => {
     {
       title: "Find your dream home",
       description: "Browse thousands of properties tailored to your preferences.",
-      image: "https://via.placeholder.com/256x256?text=Home"
+      image: "https://candourproperty.com/wp-content/uploads/cheapest-property-in-dubai-850x570.jpg"
     },
     {
       title: "Connect with agents",
       description: "Chat directly with trusted real estate professionals.",
-      image: "https://via.placeholder.com/256x256?text=Agents"
+      image: "https://images.squarespace-cdn.com/content/v1/58e3d2ecf7e0abde3bde1ddb/1607712301946-ZMH2VZABRRQD3U3DC3XK/image-asset.jpeg"
     },
     {
       title: "Secure your future",
       description: "We make the buying process simple and stress-free.",
-      image: "https://via.placeholder.com/256x256?text=Security"
+      image: "https://www.shutterstock.com/image-photo/protect-your-future-symbol-concept-260nw-2240487587.jpg"
     }
   ];
 

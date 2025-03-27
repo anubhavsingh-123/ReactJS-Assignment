@@ -14,11 +14,11 @@ const WelcomeScreen: React.FC = () => {
     >
       <div className="flex-1 flex items-center justify-center">
         <img 
-          src="/welcome-illustration.svg" 
+          src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Rubio_Circle.png" 
           alt="Welcome" 
           className="w-64 h-64"
           onError={(e) => {
-            e.currentTarget.src = 'https://via.placeholder.com/256x256?text=Welcome';
+            e.currentTarget.src = 'https://upload.wikimedia.org/wikipedia/commons/e/eb/Rubio_Circle.png';
           }}
         />
       </div>
